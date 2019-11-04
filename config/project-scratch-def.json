@@ -1,6 +1,7 @@
 {
   "orgName": "newMobileApp",
   "edition": "Developer",
+  "hasSampleData": true,
   "settings": {
     "communitiesSettings": {
       "enableNetworksEnabled": false
